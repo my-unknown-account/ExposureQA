@@ -1,0 +1,8 @@
+numpy
+scipy
+matplotlib
+tqdm
+openpyxl
+torch
+transformers
+huggingface_hub[hf_transfer]

@@ -1,0 +1,170 @@
+[
+  {
+    "file": "amber_complex.json",
+    "model": "amber",
+    "mode": "complex",
+    "num_qids": 176,
+    "accuracy_by_setting": {
+      "no_context": 0.0568,
+      "lexical_so": 0.3636,
+      "lexical_sro": 0.3807,
+      "support": 0.4886,
+      "irrelevant": 0.0398
+    },
+    "file_accuracy_avg": 0.2659
+  },
+  {
+    "file": "amber_simple.json",
+    "model": "amber",
+    "mode": "simple",
+    "num_qids": 176,
+    "accuracy_by_setting": {
+      "no_context": 0.0455,
+      "lexical_so": 0.4602,
+      "lexical_sro": 0.4148,
+      "support": 0.5114,
+      "irrelevant": 0.0625
+    },
+    "file_accuracy_avg": 0.2989
+  },
+  {
+    "file": "amber_template_based.json",
+    "model": "amber",
+    "mode": "template_based",
+    "num_qids": 176,
+    "accuracy_by_setting": {
+      "no_context": 0.0284,
+      "lexical_so": 0.4773,
+      "lexical_sro": 0.4943,
+      "support": 0.608,
+      "irrelevant": 0.0284
+    },
+    "file_accuracy_avg": 0.3273
+  },
+  {
+    "file": "olmo32_complex.json",
+    "model": "olmo32",
+    "mode": "complex",
+    "num_qids": 60,
+    "accuracy_by_setting": {
+      "no_context": 0.2167,
+      "lexical_so": 0.6,
+      "lexical_sro": 0.5667,
+      "support": 0.7,
+      "irrelevant": 0.1
+    },
+    "file_accuracy_avg": 0.4367
+  },
+  {
+    "file": "olmo32_simple.json",
+    "model": "olmo32",
+    "mode": "simple",
+    "num_qids": 60,
+    "accuracy_by_setting": {
+      "no_context": 0.15,
+      "lexical_so": 0.4667,
+      "lexical_sro": 0.6167,
+      "support": 0.6167,
+      "irrelevant": 0.0167
+    },
+    "file_accuracy_avg": 0.3734
+  },
+  {
+    "file": "olmo32_template_based.json",
+    "model": "olmo32",
+    "mode": "template_based",
+    "num_qids": 60,
+    "accuracy_by_setting": {
+      "no_context": 0.1833,
+      "lexical_so": 0.4,
+      "lexical_sro": 0.5667,
+      "support": 0.6333,
+      "irrelevant": 0.0333
+    },
+    "file_accuracy_avg": 0.3633
+  },
+  {
+    "file": "olmo_complex.json",
+    "model": "olmo",
+    "mode": "complex",
+    "num_qids": 60,
+    "accuracy_by_setting": {
+      "no_context": 0.0833,
+      "lexical_so": 0.4333,
+      "lexical_sro": 0.5333,
+      "support": 0.6333,
+      "irrelevant": 0.05
+    },
+    "file_accuracy_avg": 0.3466
+  },
+  {
+    "file": "olmo_simple.json",
+    "model": "olmo",
+    "mode": "simple",
+    "num_qids": 60,
+    "accuracy_by_setting": {
+      "no_context": 0.1,
+      "lexical_so": 0.4167,
+      "lexical_sro": 0.4833,
+      "support": 0.6,
+      "irrelevant": 0.0333
+    },
+    "file_accuracy_avg": 0.3267
+  },
+  {
+    "file": "olmo_template_based.json",
+    "model": "olmo",
+    "mode": "template_based",
+    "num_qids": 60,
+    "accuracy_by_setting": {
+      "no_context": 0.0833,
+      "lexical_so": 0.3833,
+      "lexical_sro": 0.45,
+      "support": 0.65,
+      "irrelevant": 0.0333
+    },
+    "file_accuracy_avg": 0.32
+  },
+  {
+    "file": "redpajama_complex.json",
+    "model": "redpajama",
+    "mode": "complex",
+    "num_qids": 137,
+    "accuracy_by_setting": {
+      "no_context": 0.0292,
+      "lexical_so": 0.4672,
+      "lexical_sro": 0.5255,
+      "support": 0.5985,
+      "irrelevant": 0.0219
+    },
+    "file_accuracy_avg": 0.3285
+  },
+  {
+    "file": "redpajama_simple.json",
+    "model": "redpajama",
+    "mode": "simple",
+    "num_qids": 137,
+    "accuracy_by_setting": {
+      "no_context": 0.0146,
+      "lexical_so": 0.5255,
+      "lexical_sro": 0.5839,
+      "support": 0.6715,
+      "irrelevant": 0.0292
+    },
+    "file_accuracy_avg": 0.3649
+  },
+  {
+    "file": "redpajama_template_based.json",
+    "model": "redpajama",
+    "mode": "template_based",
+    "num_qids": 137,
+    "accuracy_by_setting": {
+      "no_context": 0.0146,
+      "lexical_so": 0.5182,
+      "lexical_sro": 0.562,
+      "support": 0.6569,
+      "irrelevant": 0.0
+    },
+    "file_accuracy_avg": 0.3503
+  }
+]
