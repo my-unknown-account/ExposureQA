@@ -345,9 +345,9 @@ python analyze.py
 # 📝 Citation
 
 ```bibtex
-@article{exposureqa2026,
-  title={Analyzing Factual Recall in Large Language Models through Relation-Aware Pretraining Support},
+@article{exposureqa2027,
+  title={How Training-Data Exposure Relates to Factual Behavior in LLMs: A Large-Scale Empirical Study},
   author={Anonymous ARR submission},
-  year={2026}
+  year={2027}
 }
 ```
