@@ -4,7 +4,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)]()
 [![License](https://img.shields.io/badge/License-MIT-2EA44F)]()
-[![EMNLP](https://img.shields.io/badge/EMNLP-2026-C0392B)]()
+[![EMNLP](https://img.shields.io/badge/ACL-2027-C0392B)]()
 
 **A benchmark and analysis framework for studying how semantic pretraining evidence shapes factual recall, confidence, calibration, and hallucinations in LLMs.**
 
