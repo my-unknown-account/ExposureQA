@@ -1,6 +1,6 @@
 <div align="center">
 
-# *Analyzing Factual Recall in Large Language Models through Relation-Aware Pretraining Support*
+# *How Training-Data Exposure Relates to Factual Behavior in LLMs:A Large-Scale Empirical Study*
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)]()
 [![License](https://img.shields.io/badge/License-MIT-2EA44F)]()
